@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.h2.console.spring.h2.console.settings.web-allow-others",
+      "type": "java.lang.String",
+      "description": "Description for spring.h2.console.spring.h2.console.settings.web-allow-others."
+    },
+    {
+      "name": "spring.h2.console.console.settings.trace",
+      "type": "java.lang.String",
+      "description": "Description for spring.h2.console.console.settings.trace."
+    }
+  ] }
